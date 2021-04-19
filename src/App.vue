@@ -1,6 +1,8 @@
 <template>
   <NavBar />
-  <Card />
+  <main>
+    <Card />
+  </main>
 </template>
 
 <script>
@@ -18,6 +20,7 @@ export default {
 
 <style>
 *{
+  box-sizing: border-box;
   margin: 0;
   padding: 0;
 }

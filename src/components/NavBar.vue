@@ -1,7 +1,6 @@
 <template>
     <nav class="navbar">
-        <h1>ff</h1>
-        <!-- <router-link :to="Home">Orlando Challenger</router-link> -->
+      <router-link to="/">Orlando Challenger</router-link>
     </nav>
 </template>
 
