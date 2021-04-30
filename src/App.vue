@@ -1,5 +1,5 @@
 <template>
-  <div class="box-border m-0 p-0">
+  <div>
     <NavBar />
     <router-view/>
     <Footer />
@@ -20,5 +20,9 @@ export default {
 </script>
 
 <style scoped>
-
+*{
+  box-sizing:border-box;
+  margin:0;
+  padding:0;
+}
 </style>
