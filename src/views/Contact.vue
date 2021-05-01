@@ -5,7 +5,6 @@
       <address class="">
         Email: <a href="mailto:orlandochallenger@gmail.com" target="_blank">orlandochallenger@gmail.com</a><br>
         phone: 347.612.0513<br>
-        Website: <a href="https://orlandochallenger.com/" target="_blank">orlandochallenger.com</a><br>
         Linkedin: <a href="https://www.linkedin.com/in/orlando-challenger/" target="_blank">https://www.linkedin.com/in/orlando-challenger/</a><br>
       </address>
     </main>
